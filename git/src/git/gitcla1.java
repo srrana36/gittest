@@ -7,7 +7,7 @@ public class gitcla1 {
 	@Test
 	public void m1()
 	{
-		System.out.println("git testng1");
+		Reporter.log("gitchng1", true);
 	}
 	
 
